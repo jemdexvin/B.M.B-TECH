@@ -1,0 +1,66 @@
+# This workflow uses actioneyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0NaOWRuNTJpUEJyZTRTOUhkbmxSQ2JiVUJabmxSMTR2UkJpb0xTZ29rST0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUXl6VStMcEx0VTB6TUhlR0I5cnVybW8vd1lYU0kxdWFNQmcyeGZHYitVRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLS1hEL1VvMkZ0YjRtYXMyc0pMcktCZDdsRGdGcXU3dUpndGJDSndZRkU0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDbThmZzV5WnJIeWM3K3daSXRXV3dGamVRV2RqbVV6Z0RIQjFHZyt6cFVjPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1DNisyQy8xQXFnY3dKWXYvSFY1Ly9UWjlnTitNWkphSWlPbERibnlnWDg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImIvRmFEa0RPbEw2M3NqODBuQU9QYktsNDY5QmZOdXkwVWhPd2FvVXFNSE09In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUtmUnF0OU1sR2dsZUhVRXNpa0c1QkJoTDFzbTdqQWk5N0JsNEtiOG1Icz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieThoWWUxWjNkRjlRN0lXNUM5N3p4SjdXeFhwd3ArNlVrL0pZbFdMMEZtVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InZ4UkRxMHFrN3FJUXBnazVudjZoYTNuRlIzR2x1WDlhM3cxanpGc2NKVFpxVVVwblF6ZmZVNGREOEJLd01wR1pkSkhrMnRDNjlMeHhEVnpNeEU2emp3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQxLCJhZHZTZWNyZXRLZXkiOiJEL1NOczFia0hiMCtWVFFvMlFFa2o2eUY1VVdNK0VlY0c5WVFEWE9WS2RVPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NDc5OTc2MTE3NkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI1RjQ3NzQwRDQ3MzMzQjUwQTJDNjRCQTNFNjQ5Q0ZCRSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ5NzIzMTkxfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTQ3OTk3NjExNzZAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiQUJBQTVEOTM4OERGRDExRkY3NjY0NURFOTAzMDcwQ0QifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc0OTcyMzE5Mn0seyJrZXkiOnsicmVtb3RlSmlkIjoiMjU0Nzk5NzYxMTc2QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjY3QzA2RkUyQUNFRTZBQkY1MDRCNTEyMTU2RjA1OTRGIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDk3MjMyMDJ9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI1NDc5OTc2MTE3NkBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIwRUIwQTYwOEVERjExRThBN0ZFN0JBN0QwNTY2NjZFRiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ5NzIzMjEwfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6dHJ1ZSwicGFpcmluZ0NvZGUiOiJZMUQ2NFRXQyIsIm1lIjp7ImlkIjoiMjU0Nzk5NzYxMTc2OjE2QHMud2hhdHNhcHAubmV0IiwibGlkIjoiMTc0NjgwODE2MjgzNzE0OjE2QGxpZCIsIm5hbWUiOiIuLi4uLiBNanMuLi4ifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0tyd3pJOEhFS2JRcXNJR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkV2dVc4TkErTGRaQ2k4U1daRjc1MjdBaHV5MlJoSTE3UkVrcGM4cWtZQXM9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlZ4ejBVMVk4Y3dUK0xaZ2d1dklMZzNJNGFxNWZFMlpUcjk4Y2FDdzJPSndRdnNKelJmRmUzR2RtQjBwUTN0azh0YTJTRTRhWnJJTURzV2toUjZiVUFRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiI1Y1dJSFR1WkZDQzQ2U1FDYTg0c2lzWmFlN2tvTjNCa3NzY1lFRTRDQStNZytzdTlxdG0rN0czYlVveEZkdFgvdjM2dlNVSUQ0Q0p5Tkp4U1l1T0lpZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDc5OTc2MTE3NjoxNkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJSTDdsdkRRUGkzV1FvdkVsbVJlK2R1d0lic3RrWVNOZTBSSktYUEtwR0FMIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQWdJRFE9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NDk3MjMxODgsImxhc3RQcm9wSGFzaCI6IjFLNGhINCIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBRnY4In0=s that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# This workflow lets you generate SLSA provenance file for your project.
+# The generation satisfies level 3 for the provenance requirements - see https://slsa.dev/spec/v0.1/requirements
+# The project is an initiative of the OpenSSF (openssf.org) and is developed at
+# https://github.com/slsa-framework/slsa-github-generator.
+# The provenance file can be verified using https://github.com/slsa-framework/slsa-verifier.
+# For more information about SLSA and how it improves the supply-chain, visit slsa.dev.
+
+name: SLSA generic generator
+on:
+  workflow_dispatch:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      digests: ${{ steps.hash.outputs.digests }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # ========================================================
+      #
+      # Step 1: Build your artifacts.
+      #
+      # ========================================================
+      - name: Build artifacts
+        run: |
+            # These are some amazing artifacts.
+            echo "artifact1" > artifact1
+            echo "artifact2" > artifact2
+
+      # ========================================================
+      #
+      # Step 2: Add a step to generate the provenance subjects
+      #         as shown below. Update the sha256 sum arguments
+      #         to include all binaries that you generate
+      #         provenance for.
+      #
+      # ========================================================
+      - name: Generate subject for provenance
+        id: hash
+        run: |
+          set -euo pipefail
+
+          # List the artifacts the provenance will refer to.
+          files=$(ls artifact*)
+          # Generate the subjects (base64 encoded).
+          echo "hashes=$(sha256sum $files | base64 -w0)" >> "${GITHUB_OUTPUT}"
+
+  provenance:
+    needs: [build]
+    permissions:
+      actions: read   # To read the workflow path.
+      id-token: write # To sign the provenance.
+      contents: write # To add assets to a release.
+    uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v1.4.0
+    with:
+      base64-subjects: "${{ needs.build.outputs.digests }}"
+      upload-assets: true # Optional: Upload to a new release
